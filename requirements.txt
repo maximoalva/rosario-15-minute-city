@@ -2,4 +2,4 @@ ipykernel
 requests
 pandas
 geopandas
-matplotlib
+osmnx
