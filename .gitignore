@@ -2,8 +2,10 @@
 notebooks/cache/
 
 # Data
-data/processed/
-data/raw/
+data/raw/*
+data/processed/*
+!data/raw/README.md
+!data/processed/README.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
