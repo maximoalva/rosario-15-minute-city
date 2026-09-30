@@ -1,4 +1,4 @@
-from .data_loader import cargar_nodos
+from .data_loader import cargar_calles
 
 # Públicos
 __all__ = [
